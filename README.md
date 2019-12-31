@@ -1,5 +1,11 @@
 # 99 Bottles
 
+## Running Tests
+
+```
+ruby test/bottles_test.rb
+```
+
 ## Installing Ruby
 
 ### Windows
